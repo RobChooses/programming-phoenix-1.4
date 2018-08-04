@@ -1,6 +1,6 @@
 # Programming Phoenix 1.4 (Pre-release) - Chapter 4
 
-This repository contains code from the [Programming Phoenix 1.4] (https://pragprog.com/book/phoenix14/programming-phoenix-1-4) book by by Chris McCord, Bruce Tate and José Valim.
+This repository contains code from the [Programming Phoenix 1.4](https://pragprog.com/book/phoenix14/programming-phoenix-1-4) book by by Chris McCord, Bruce Tate and José Valim.
 
 # Rumbl
 
